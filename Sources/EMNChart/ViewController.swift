@@ -13,7 +13,6 @@ struct Cell{
     var color: UIColor
 }
 
-
 @available(iOS 10.0, *)
 class ViewController: UIViewController, UICollectionViewDataSource, UICollectionViewDelegate , UICollectionViewDelegateFlowLayout{
     
